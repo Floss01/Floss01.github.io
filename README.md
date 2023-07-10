@@ -2,7 +2,7 @@
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>Origin</th>
+      <th>Originnnnnnn</th>
       <th>Destination</th>
       <th>Price</th>
       <th>Promo_Period</th>
